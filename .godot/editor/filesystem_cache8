@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1734391088
+::res://::1734392337
 icon.svg::CompressedTexture2D::3494044631568946365::1734389132::1734389154::1::::<><>::
 node_2d.tscn::PackedScene::7984921115721656362::1734389608::0::1::::<><>::
 ::res://addons/::1734389325
@@ -9,9 +9,10 @@ plugin.cfg::TextFile::-1::1734389325::0::1::::<><>::
 THIRDPARTY.md::TextFile::-1::1734389326::0::1::::<><>::
 ::res://addons/godot-git-plugin/linux/::1734389325
 ::res://addons/godot-git-plugin/macos/::1734389325
-::res://addons/godot-git-plugin/win64/::1734390685
+::res://addons/godot-git-plugin/win64/::1734392331
 ::res://assets/::1734391058
 ::res://prefabs/::1734391077
+::res://resources/::1734391093
 ::res://scenes/::1734391063
 ::res://scripts/::1734391070
 ::res://shaders/::1734391081
