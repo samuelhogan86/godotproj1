@@ -3,6 +3,7 @@
 /export/                 # Godot export folder (contains exported game files)
 /.cache/                 # Godot cache folder (stores temporary data)
 /*.godot                 # Godot project file (machine-specific settings)
+/*.godot/editor
 
 /# OS generated files
 .DS_Store               # macOS Finder metadata
